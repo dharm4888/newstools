@@ -1,3 +1,5 @@
+plotly>=5.20.0
+
 streamlit
 langchain
 openai
@@ -28,3 +30,4 @@ matplotlib>=3.7.0
 
 # Optional: caching utils (if using lru_cache decorators)
 cachetools>=5.3.0
+
