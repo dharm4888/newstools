@@ -1,0 +1,30 @@
+streamlit
+langchain
+openai
+newsapi-python
+python-dotenv
+pytest
+tenacity
+# Web framework
+streamlit>=1.25.0
+
+# LangChain for LLM integration
+langchain>=0.1.0
+
+# OpenAI API client
+openai>=0.27.0
+
+# NewsAPI Python client
+newsapi-python>=0.2.7
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Optional: caching utils (if using lru_cache decorators)
+cachetools>=5.3.0
